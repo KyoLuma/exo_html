@@ -2,6 +2,9 @@
 
 <?php include 'includes/nav.php'; ?>
 
+<p>I'm the Home Page
+</p>
+
 <?php include 'includes/footer.php'; ?>
 
 </body>
